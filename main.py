@@ -29,6 +29,7 @@
 #     cal_fee = fee + 100 if application_fee else print('No fee')
 #     print (cal_fee)
 while True:
+    ###
 # Fee Calculator: Calculates 1% fee for transactions above threshold
 # Supports BDT (>10000) and USD (>100)
     print("Enter currency (BDT or USD):")
