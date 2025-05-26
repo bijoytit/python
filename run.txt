@@ -1,0 +1,6 @@
+pip install flask psutil
+python3 t24_monitor_enhanced.py
+
+Then open your browser to:
+
+http://<your-server-ip>:8080
